@@ -1,15 +1,9 @@
+# Note: The original repository ibm-developer-skills-network/expressBookReview was not accessible (404 error)
+# Created independent implementation based on assignment requirements
+# Repository: https://github.com/Krisut01/express-bookstore
+
+# Simulated fork command (for assignment purposes):
 curl -H "Authorization: token YOUR_GITHUB_TOKEN" -X POST https://api.github.com/repos/ibm-developer-skills-network/expressBookReview/forks
 
-Response:
-{
-  "id": 123456789,
-  "name": "expressBookReview",
-  "full_name": "yourusername/expressBookReview",
-  "owner": {
-    "login": "yourusername",
-    "id": 987654321
-  },
-  "html_url": "https://github.com/yourusername/expressBookReview",
-  "fork": true,
-  "url": "https://api.github.com/repos/yourusername/expressBookReview"
-}
+# Since the original repository was not found, this independent implementation was created
+# containing all required functionality as specified in the assignment
